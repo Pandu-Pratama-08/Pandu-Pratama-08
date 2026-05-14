@@ -9,18 +9,18 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
-- 🌱 I’m currently focusing on **Frontend and Full-Stack Web Development**  
-- 🎨 I enjoy turning complex ideas into clean and beautiful user interfaces  
-- ⚙️ Skilled in **Vue.js**, **Tailwind CSS**, **Laravel**, and **Flutter**  
-- 🚀 Love learning about **modern frameworks**, **responsive design**, and **UI/UX principles**  
-- ❤️ Passionate about creating projects that are **useful and scalable**  
-- ⚽ Fun fact: I’m a huge **Arsenal** fan
+-  I’m currently focusing on **Frontend and Full-Stack Web Development**  
+-  I enjoy turning complex ideas into clean and beautiful user interfaces  
+-  Skilled in **Vue.js**, **Tailwind CSS**, **Laravel**, and **Flutter**  
+-  Love learning about **modern frameworks**, **responsive design**, and **UI/UX principles**  
+-  Passionate about creating projects that are **useful and scalable**  
+-  Fun fact: I’m a huge **Arsenal** fan
 
 ---
 
-## 🎨 Frontend
+##  Frontend
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
@@ -32,7 +32,7 @@
 
 ---
 
-## ⚙️ Backend
+##  Backend
 <p align="center">
   <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" />
@@ -40,7 +40,7 @@
 
 ---
 
-## 📱 Mobile
+##  Mobile
 <p align="center">
   <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" />
@@ -48,7 +48,7 @@
 
 ---
 
-## 🗄️ Database
+##  Database
 <p align="center">
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
@@ -56,7 +56,7 @@
 
 ---
 
-## 🧰 Tools & Others
+##  Tools & Others
 <p align="center">
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
@@ -67,7 +67,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pandu-Pratama-08&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pandu-Pratama-08&theme=tokyonight&hide_border=true" width="49%" />
@@ -75,22 +75,22 @@
 
 ---
 
-## 🔥 Most Used Languages
+##  Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pandu-Pratama-08&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 <p align="center">
-  <a href="https://www.instagram.com/panduprtm._/" target="_blank">
+  <a href="https://www.instagram.com/pnduptra_pratma/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/pandu-pratama-08/" target="_blank">
+  <a href="https://www.linkedin.com/in/pandu-putra-pratama-/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:pandupratama08@gmail.com" target="_blank">
+  <a href="mailto:panduputra300308@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
