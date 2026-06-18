@@ -1,102 +1,146 @@
-<!-- Animated Header -->
+<!-- Hero Section -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+Pandu+Putra+Pratama!;Frontend+%7C+Backend+%7C+Mobile+Developer;Welcome+to+my+GitHub+Profile!+🚀" alt="Typing SVG" />
+  Hi, I'm Pandu Putra Pratama
 </h1>
 
+<h3 align="center">
+  Frontend Developer • Full Stack Developer • Mobile Developer
+</h3>
+
 <p align="center">
-  💻 Frontend, Backend, and Mobile Developer passionate about building interactive, efficient, and modern web & mobile apps.
+  Passionate about building modern, responsive, and user-friendly applications.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pandu-putra-pratama-/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:panduputra300308@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://panduputrap.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge" />
+  </a>
 </p>
 
 ---
 
-##  About Me
+# About Me
 
--  I’m currently focusing on **Frontend and Full-Stack Web Development**  
--  I enjoy turning complex ideas into clean and beautiful user interfaces  
--  Skilled in **Vue.js**, **Tailwind CSS**, **Laravel**, and **Flutter**  
--  Love learning about **modern frameworks**, **responsive design**, and **UI/UX principles**  
--  Passionate about creating projects that are **useful and scalable**  
--  Fun fact: I’m a huge **Arsenal** fan
+I'm a Fresh Graduate Software Developer with a strong interest in Frontend Development and Full Stack Web Development.
+
+I enjoy transforming ideas into scalable, responsive, and user-centered digital products. Throughout my learning journey and projects, I have gained hands-on experience in developing web and mobile applications using modern technologies.
+
+### What I Do
+
+- Build responsive and interactive web applications
+- Develop RESTful APIs and backend systems
+- Create modern user interfaces with clean code
+- Design scalable application architecture
+- Continuously learn new technologies and best practices
 
 ---
 
-##  Frontend
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" />
+# Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,vue,react,tailwind" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel" />
+</p>
+
+### Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
+
+### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,firebase" />
 </p>
 
 ---
 
-##  Backend
+# Current Focus
+
+- Frontend Development with Vue.js & React
+- Full Stack Development using Laravel
+- Mobile Application Development with Flutter
+- Clean Architecture & Best Practices
+- Responsive UI/UX Implementation
+
+---
+
+# GitHub Analytics
+
 <p align="center">
-  <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pandu-Pratama-08&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Pandu-Pratama-08&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-##  Mobile
-<p align="center">
-  <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" />
-</p>
+# Most Used Languages
 
----
-
-##  Database
-<p align="center">
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
-</p>
-
----
-
-##  Tools & Others
-<p align="center">
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
-</p>
-
----
-
-##  GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pandu-Pratama-08&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pandu-Pratama-08&theme=tokyonight&hide_border=true" width="49%" />
-</p>
-
----
-
-##  Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pandu-Pratama-08&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-##  Let's Connect
+# Featured Projects
+
+### Employee Management System
+A full-stack web application for managing employee data, overtime, loans, and company operations.
+
+**Tech Stack:** Laravel, Vue.js, MySQL, Tailwind CSS
+
+### Vehicle Rental Management System
+A rental management platform with customer, vehicle, and transaction management features.
+
+**Tech Stack:** Laravel, Vue.js, PostgreSQL
+
+### Al-Quran Mobile Application
+Mobile application built using Flutter with Firebase integration.
+
+**Tech Stack:** Flutter, Dart, Firebase
+
+---
+
+# Connect With Me
+
 <p align="center">
-  <a href="https://www.instagram.com/pnduptra_pratma/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.linkedin.com/in/pandu-putra-pratama-/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/pandu-putra-pratama-/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+  <a href="mailto:panduputra300308@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="mailto:panduputra300308@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+  <a href="https://www.instagram.com/pnduptra_pratma/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>“Design beautifully. Code efficiently. Deliver confidently.”</i>
+  <i>
+    Building responsive interfaces, scalable applications, and meaningful digital experiences.
+  </i>
 </p>
